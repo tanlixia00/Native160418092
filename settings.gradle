@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Elisa_week1_AdvNMP"
